@@ -19,4 +19,3 @@ Export
 - PNG HD : export jusqu’à 300 DPI en recalculant un canvas off-screen.
 
   [pokegenx.com](https://pokegenx.com/)
-  [api.pokegenx.com](https://api.pokegenx.com/)
